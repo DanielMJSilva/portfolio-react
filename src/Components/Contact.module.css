@@ -1,0 +1,18 @@
+.contact_body {
+    height: 5rem;
+    border-top: 1px solid black;
+    padding: 2rem 0 5rem 0;
+    background-color: black;
+    color: #f6c90e;
+    
+}
+.icons{
+    font-size: 4rem;
+    margin: 15px;
+    color: #f6c90e;
+
+}
+footer > p {
+    color: #f6c90e;
+    
+}
